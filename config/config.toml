@@ -1,0 +1,5 @@
+# logLevel = 6
+showFPS = true
+[window]
+width = 960
+height = 720

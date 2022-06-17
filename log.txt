@@ -1,0 +1,370 @@
+﻿2022-06-17 00:52:57.234 INFO  [36052] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 00:52:59.126 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 2006
+2022-06-17 00:53:00.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 1477
+2022-06-17 00:53:01.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 1787
+2022-06-17 00:53:02.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 2610
+2022-06-17 00:53:02.232 DEBUG [45236] [SGEng::SGEngApp::update@57] 5 seconds passed
+2022-06-17 00:53:03.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 2877
+2022-06-17 00:53:04.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3001
+2022-06-17 00:53:05.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3210
+2022-06-17 00:53:06.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3346
+2022-06-17 00:53:07.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3380
+2022-06-17 00:53:07.232 DEBUG [45236] [SGEng::SGEngApp::update@57] 5 seconds passed
+2022-06-17 00:53:08.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3281
+2022-06-17 00:53:09.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3333
+2022-06-17 00:53:10.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3139
+2022-06-17 00:53:11.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3385
+2022-06-17 00:53:12.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3418
+2022-06-17 00:53:12.232 DEBUG [45236] [SGEng::SGEngApp::update@57] 5 seconds passed
+2022-06-17 00:53:13.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3398
+2022-06-17 00:53:14.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3421
+2022-06-17 00:53:15.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3276
+2022-06-17 00:53:16.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3402
+2022-06-17 00:53:17.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3307
+2022-06-17 00:53:17.232 DEBUG [45236] [SGEng::SGEngApp::update@57] 5 seconds passed
+2022-06-17 00:53:18.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3286
+2022-06-17 00:53:19.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3385
+2022-06-17 00:53:20.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3287
+2022-06-17 00:53:21.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3443
+2022-06-17 00:53:22.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3258
+2022-06-17 00:53:22.232 DEBUG [45236] [SGEng::SGEngApp::update@57] 5 seconds passed
+2022-06-17 00:53:23.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 1906
+2022-06-17 00:53:24.125 DEBUG [45236] [SGEng::App::performFrame@70] FPS: 3284
+2022-06-17 02:06:43.590 INFO  [1532] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 02:06:45.846 DEBUG [38748] [SGEng::App::performFrame@70] FPS: 1738
+2022-06-17 02:16:12.389 INFO  [10128] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 02:16:14.447 DEBUG [31264] [SGEng::App::performFrame@70] FPS: 1789
+2022-06-17 02:16:15.447 DEBUG [31264] [SGEng::App::performFrame@70] FPS: 2433
+2022-06-17 02:24:17.334 INFO  [3576] [SGEng::FileManager::loadConfig@41] Log level: 4
+2022-06-17 02:24:43.168 INFO  [12544] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 02:26:17.837 INFO  [21316] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 02:26:19.759 DEBUG [3032] [SGEng::App::performFrame@70] FPS: 982
+2022-06-17 02:26:20.763 DEBUG [3032] [SGEng::App::performFrame@70] FPS: 1655
+2022-06-17 04:09:18.260 INFO  [10416] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:09:21.067 DEBUG [23028] [SGEng::App::performFrame@70] FPS: 1245
+2022-06-17 04:15:45.847 INFO  [39656] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:15:48.093 DEBUG [40088] [SGEng::App::performFrame@70] FPS: 1477
+2022-06-17 04:15:49.093 DEBUG [40088] [SGEng::App::performFrame@70] FPS: 2436
+2022-06-17 04:20:03.379 INFO  [26628] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:20:23.656 INFO  [18812] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:24:27.110 INFO  [3868] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:24:38.191 INFO  [20420] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:27:02.207 INFO  [21508] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:27:04.779 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 1736
+2022-06-17 04:27:05.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2522
+2022-06-17 04:27:06.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2893
+2022-06-17 04:27:07.206 DEBUG [18948] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:27:07.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3084
+2022-06-17 04:27:08.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2925
+2022-06-17 04:27:09.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2835
+2022-06-17 04:27:10.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3088
+2022-06-17 04:27:11.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2944
+2022-06-17 04:27:12.206 DEBUG [18948] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:27:12.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3166
+2022-06-17 04:27:13.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3114
+2022-06-17 04:27:14.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2917
+2022-06-17 04:27:15.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3238
+2022-06-17 04:27:16.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3155
+2022-06-17 04:27:17.206 DEBUG [18948] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:27:17.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3243
+2022-06-17 04:27:18.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3216
+2022-06-17 04:27:19.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3148
+2022-06-17 04:27:20.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3083
+2022-06-17 04:27:21.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3118
+2022-06-17 04:27:22.206 DEBUG [18948] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:27:22.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2670
+2022-06-17 04:27:23.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2812
+2022-06-17 04:27:24.779 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2539
+2022-06-17 04:27:25.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 2741
+2022-06-17 04:27:26.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3068
+2022-06-17 04:27:27.206 DEBUG [18948] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:27:27.778 DEBUG [18948] [SGEng::App::performFrame@70] FPS: 3011
+2022-06-17 04:28:58.076 INFO  [29492] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:29:00.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2172
+2022-06-17 04:29:01.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2543
+2022-06-17 04:29:02.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2692
+2022-06-17 04:29:03.074 DEBUG [22796] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:29:03.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2850
+2022-06-17 04:29:04.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2955
+2022-06-17 04:29:05.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2953
+2022-06-17 04:29:06.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2898
+2022-06-17 04:29:07.235 DEBUG [22796] [SGEng::App::performFrame@70] FPS: 2596
+2022-06-17 04:29:39.015 INFO  [23812] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:29:41.442 DEBUG [42764] [SGEng::App::performFrame@70] FPS: 2357
+2022-06-17 04:29:42.443 DEBUG [42764] [SGEng::App::performFrame@70] FPS: 2630
+2022-06-17 04:29:43.443 DEBUG [42764] [SGEng::App::performFrame@70] FPS: 2037
+2022-06-17 04:30:08.222 INFO  [44372] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:30:10.448 DEBUG [18656] [SGEng::App::performFrame@70] FPS: 2141
+2022-06-17 04:30:11.448 DEBUG [18656] [SGEng::App::performFrame@70] FPS: 2449
+2022-06-17 04:30:12.448 DEBUG [18656] [SGEng::App::performFrame@70] FPS: 2849
+2022-06-17 04:30:13.220 DEBUG [18656] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:13.448 DEBUG [18656] [SGEng::App::performFrame@70] FPS: 2253
+2022-06-17 04:30:23.490 INFO  [34068] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:30:25.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2025
+2022-06-17 04:30:26.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2442
+2022-06-17 04:30:27.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2634
+2022-06-17 04:30:28.489 DEBUG [29756] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:28.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2953
+2022-06-17 04:30:29.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2853
+2022-06-17 04:30:30.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2668
+2022-06-17 04:30:31.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3169
+2022-06-17 04:30:32.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3093
+2022-06-17 04:30:33.488 DEBUG [29756] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:33.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3170
+2022-06-17 04:30:34.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3038
+2022-06-17 04:30:35.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3041
+2022-06-17 04:30:36.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2994
+2022-06-17 04:30:37.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3023
+2022-06-17 04:30:38.489 DEBUG [29756] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:38.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2939
+2022-06-17 04:30:39.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3069
+2022-06-17 04:30:40.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3163
+2022-06-17 04:30:41.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 2935
+2022-06-17 04:30:42.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3146
+2022-06-17 04:30:43.489 DEBUG [29756] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:43.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3068
+2022-06-17 04:30:44.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3282
+2022-06-17 04:30:45.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3200
+2022-06-17 04:30:46.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3104
+2022-06-17 04:30:47.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3256
+2022-06-17 04:30:48.489 DEBUG [29756] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:30:48.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3142
+2022-06-17 04:30:49.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3020
+2022-06-17 04:30:50.724 DEBUG [29756] [SGEng::App::performFrame@70] FPS: 3083
+2022-06-17 04:31:10.323 INFO  [30400] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:31:12.442 DEBUG [34668] [SGEng::App::performFrame@70] FPS: 1874
+2022-06-17 04:33:03.606 INFO  [17532] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:33:05.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2065
+2022-06-17 04:33:06.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2694
+2022-06-17 04:33:07.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2838
+2022-06-17 04:33:08.605 DEBUG [39728] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:33:08.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 3233
+2022-06-17 04:33:09.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 3122
+2022-06-17 04:33:10.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2933
+2022-06-17 04:33:11.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2909
+2022-06-17 04:33:12.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 2515
+2022-06-17 04:33:13.605 DEBUG [39728] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:33:13.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 3161
+2022-06-17 04:33:14.928 DEBUG [39728] [SGEng::App::performFrame@70] FPS: 3127
+2022-06-17 04:33:56.149 INFO  [44668] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:33:57.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1765
+2022-06-17 04:33:58.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1929
+2022-06-17 04:33:59.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2329
+2022-06-17 04:34:00.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2729
+2022-06-17 04:34:01.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:01.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3060
+2022-06-17 04:34:02.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2985
+2022-06-17 04:34:03.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3031
+2022-06-17 04:34:04.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3008
+2022-06-17 04:34:05.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3163
+2022-06-17 04:34:06.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:06.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3138
+2022-06-17 04:34:07.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2707
+2022-06-17 04:34:08.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2959
+2022-06-17 04:34:09.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3047
+2022-06-17 04:34:10.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3128
+2022-06-17 04:34:11.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:11.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2831
+2022-06-17 04:34:12.318 DEBUG [708] [SGEng::SGEngApp::update@78] Click
+2022-06-17 04:34:12.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1743
+2022-06-17 04:34:13.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3099
+2022-06-17 04:34:14.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3057
+2022-06-17 04:34:15.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3102
+2022-06-17 04:34:16.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:16.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2885
+2022-06-17 04:34:17.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2108
+2022-06-17 04:34:18.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2913
+2022-06-17 04:34:19.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2710
+2022-06-17 04:34:20.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2652
+2022-06-17 04:34:21.147 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:21.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3065
+2022-06-17 04:34:22.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3182
+2022-06-17 04:34:23.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3184
+2022-06-17 04:34:24.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3203
+2022-06-17 04:34:25.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3097
+2022-06-17 04:34:26.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:26.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2895
+2022-06-17 04:34:27.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3141
+2022-06-17 04:34:28.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3144
+2022-06-17 04:34:29.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2940
+2022-06-17 04:34:30.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3082
+2022-06-17 04:34:31.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:31.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1567
+2022-06-17 04:34:32.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2747
+2022-06-17 04:34:33.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 896
+2022-06-17 04:34:34.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1008
+2022-06-17 04:34:35.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1334
+2022-06-17 04:34:36.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:36.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1814
+2022-06-17 04:34:37.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1543
+2022-06-17 04:34:38.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1714
+2022-06-17 04:34:39.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1871
+2022-06-17 04:34:40.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1884
+2022-06-17 04:34:41.150 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:41.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1084
+2022-06-17 04:34:42.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 887
+2022-06-17 04:34:43.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1215
+2022-06-17 04:34:44.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1689
+2022-06-17 04:34:45.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1780
+2022-06-17 04:34:46.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:46.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1755
+2022-06-17 04:34:47.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1200
+2022-06-17 04:34:48.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1411
+2022-06-17 04:34:49.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1510
+2022-06-17 04:34:50.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1505
+2022-06-17 04:34:51.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:51.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1655
+2022-06-17 04:34:52.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1959
+2022-06-17 04:34:53.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2207
+2022-06-17 04:34:54.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1149
+2022-06-17 04:34:55.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2249
+2022-06-17 04:34:56.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:34:56.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3019
+2022-06-17 04:34:57.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3159
+2022-06-17 04:34:58.896 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2708
+2022-06-17 04:34:59.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 451
+2022-06-17 04:35:00.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2569
+2022-06-17 04:35:01.149 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:01.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2151
+2022-06-17 04:35:02.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2683
+2022-06-17 04:35:03.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2426
+2022-06-17 04:35:04.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2082
+2022-06-17 04:35:05.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2573
+2022-06-17 04:35:06.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:06.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1579
+2022-06-17 04:35:07.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1965
+2022-06-17 04:35:08.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1954
+2022-06-17 04:35:09.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2150
+2022-06-17 04:35:10.898 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2023
+2022-06-17 04:35:11.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:11.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2287
+2022-06-17 04:35:12.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2427
+2022-06-17 04:35:13.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1336
+2022-06-17 04:35:14.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2260
+2022-06-17 04:35:15.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1763
+2022-06-17 04:35:16.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:16.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1919
+2022-06-17 04:35:17.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2792
+2022-06-17 04:35:18.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 3125
+2022-06-17 04:35:19.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 2281
+2022-06-17 04:35:20.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1704
+2022-06-17 04:35:21.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:21.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1514
+2022-06-17 04:35:22.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1613
+2022-06-17 04:35:23.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 846
+2022-06-17 04:35:24.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 892
+2022-06-17 04:35:25.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1314
+2022-06-17 04:35:26.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:26.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1760
+2022-06-17 04:35:27.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1864
+2022-06-17 04:35:28.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1832
+2022-06-17 04:35:29.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1769
+2022-06-17 04:35:30.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1897
+2022-06-17 04:35:31.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:31.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1435
+2022-06-17 04:35:32.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1280
+2022-06-17 04:35:33.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1330
+2022-06-17 04:35:34.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1361
+2022-06-17 04:35:35.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1768
+2022-06-17 04:35:36.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:36.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1809
+2022-06-17 04:35:37.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1432
+2022-06-17 04:35:38.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1649
+2022-06-17 04:35:39.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1825
+2022-06-17 04:35:40.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1175
+2022-06-17 04:35:41.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:41.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1738
+2022-06-17 04:35:42.893 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1857
+2022-06-17 04:35:43.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1766
+2022-06-17 04:35:44.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1679
+2022-06-17 04:35:45.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1428
+2022-06-17 04:35:46.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:46.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1322
+2022-06-17 04:35:47.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1435
+2022-06-17 04:35:48.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 852
+2022-06-17 04:35:49.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 877
+2022-06-17 04:35:50.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1341
+2022-06-17 04:35:51.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:51.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1392
+2022-06-17 04:35:52.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1313
+2022-06-17 04:35:53.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1350
+2022-06-17 04:35:54.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1440
+2022-06-17 04:35:55.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1401
+2022-06-17 04:35:56.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:35:56.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1076
+2022-06-17 04:35:57.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1133
+2022-06-17 04:35:58.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 790
+2022-06-17 04:35:59.894 DEBUG [708] [SGEng::App::performFrame@70] FPS: 1196
+2022-06-17 04:36:00.895 DEBUG [708] [SGEng::App::performFrame@70] FPS: 955
+2022-06-17 04:36:01.148 DEBUG [708] [SGEng::SGEngApp::update@58] 5 seconds passed
+2022-06-17 04:37:44.106 INFO  [9864] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:37:46.392 DEBUG [21608] [SGEng::App::performFrame@70] FPS: 2054
+2022-06-17 04:37:47.392 DEBUG [21608] [SGEng::App::performFrame@70] FPS: 2553
+2022-06-17 04:37:48.392 DEBUG [21608] [SGEng::App::performFrame@70] FPS: 1590
+2022-06-17 04:38:25.774 INFO  [26988] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:38:28.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2201
+2022-06-17 04:38:29.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2694
+2022-06-17 04:38:30.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2707
+2022-06-17 04:38:30.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:31.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 3231
+2022-06-17 04:38:32.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2378
+2022-06-17 04:38:33.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1999
+2022-06-17 04:38:34.041 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1782
+2022-06-17 04:38:35.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 823
+2022-06-17 04:38:35.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:36.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2630
+2022-06-17 04:38:37.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1456
+2022-06-17 04:38:38.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2281
+2022-06-17 04:38:39.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2158
+2022-06-17 04:38:40.042 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2006
+2022-06-17 04:38:40.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:41.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1210
+2022-06-17 04:38:42.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 901
+2022-06-17 04:38:43.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1677
+2022-06-17 04:38:44.039 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 620
+2022-06-17 04:38:45.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 842
+2022-06-17 04:38:45.774 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:46.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1383
+2022-06-17 04:38:47.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1565
+2022-06-17 04:38:48.039 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1710
+2022-06-17 04:38:49.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1687
+2022-06-17 04:38:50.039 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1537
+2022-06-17 04:38:50.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:51.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1397
+2022-06-17 04:38:52.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1787
+2022-06-17 04:38:53.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1823
+2022-06-17 04:38:54.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 985
+2022-06-17 04:38:55.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1465
+2022-06-17 04:38:55.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:38:56.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1761
+2022-06-17 04:38:57.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1533
+2022-06-17 04:38:58.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1349
+2022-06-17 04:38:59.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1084
+2022-06-17 04:39:00.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 698
+2022-06-17 04:39:00.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:39:01.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 994
+2022-06-17 04:39:02.039 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 953
+2022-06-17 04:39:03.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 997
+2022-06-17 04:39:04.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 1472
+2022-06-17 04:39:05.038 DEBUG [23148] [SGEng::App::performFrame@70] FPS: 2852
+2022-06-17 04:39:05.773 DEBUG [23148] [SGEng::SGEngApp::update@59] 5 seconds passed
+2022-06-17 04:39:30.310 INFO  [14752] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:39:32.718 DEBUG [33564] [SGEng::App::performFrame@70] FPS: 2052
+2022-06-17 04:40:09.135 INFO  [23700] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:40:11.228 DEBUG [41156] [SGEng::App::performFrame@70] FPS: 1204
+2022-06-17 04:40:23.030 INFO  [9628] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:40:25.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2161
+2022-06-17 04:40:26.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2544
+2022-06-17 04:40:27.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2598
+2022-06-17 04:40:28.029 DEBUG [4208] [SGEng::SGEngApp::update@60] 5 seconds passed
+2022-06-17 04:40:28.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2751
+2022-06-17 04:40:29.253 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 3103
+2022-06-17 04:40:30.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2899
+2022-06-17 04:40:31.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 3047
+2022-06-17 04:40:32.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 3109
+2022-06-17 04:40:33.029 DEBUG [4208] [SGEng::SGEngApp::update@60] 5 seconds passed
+2022-06-17 04:40:33.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 3058
+2022-06-17 04:40:34.254 DEBUG [4208] [SGEng::App::performFrame@70] FPS: 2192
+2022-06-17 04:42:20.855 INFO  [8808] [SGEng::FileManager::loadConfig@41] Log level: 5
+2022-06-17 04:42:22.973 DEBUG [17608] [SGEng::SGEngApp::update@79] Click
+2022-06-17 04:42:23.475 DEBUG [17608] [SGEng::App::performFrame@70] FPS: 1679
