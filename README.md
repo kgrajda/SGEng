@@ -1,4 +1,5 @@
 ![Teapot image](https://github.com/kgrajda/SGEng/blob/main/static/teapot.png)
+
 # SGEng [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Simple Game Engine in C++20.
@@ -22,3 +23,7 @@ Simple Game Engine in C++20.
 * [Assimp](https://github.com/assimp/assimp)
 * [Toml++](https://marzer.github.io/tomlplusplus/)
 * [Plog](https://github.com/SergiusTheBest/plog)
+
+## Gallery
+
+![Teapot image](https://github.com/kgrajda/SGEng/blob/main/static/sphere.png)
